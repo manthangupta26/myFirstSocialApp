@@ -1,6 +1,6 @@
 ## My First Backend App
 
-This is my first Backend App called mysocials, what it would do is, it would print the social status of your Instagram, Linkdin and Facebook profiles.
+This is my first Backend App called myFirstSocialApp, what it would do is, it would print the social status of your Instagram, Linkdin and Facebook profiles.
 
 ### My Learnings
 - How to use backend frameworks (Used express).
