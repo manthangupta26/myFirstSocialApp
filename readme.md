@@ -17,4 +17,4 @@ This is my first Backend App called myFirstSocialApp, what it would do is, it wo
 
  ### Link for the Swagger Docs
  ---
- 	[Swagger Documentation](https://myfirstsocialapp-manthan.onrender.com/api-docs/)
+[Swagger Documentation](https://myfirstsocialapp-manthan.onrender.com/api-docs/)
