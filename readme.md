@@ -14,3 +14,7 @@ This is my first Backend App called myFirstSocialApp, what it would do is, it wo
 ---
 
  ![Mind Mapp](./images/Screenshot%202023-04-12%20at%204.34.27%20PM.png)
+
+ ### Link for the Swagger Docs
+ ---
+ 	[Swagger Documentation](https://myfirstsocialapp-manthan.onrender.com/api-docs/)
